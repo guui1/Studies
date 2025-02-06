@@ -1,0 +1,4 @@
+Nome de usuario recebido: Guilherme
+Idade recebida: 20
+Profissao Desejada: Programador
+Codigo de usuario: 777
